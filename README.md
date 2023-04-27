@@ -3,6 +3,14 @@ It will create security group using terraform with the help of jenkins CICD pipe
 # CICD-Pipeline
 
 Steps--->
+
+
+
+
+
+
+
+
 1.Create Jenkins Instance and install terraform on it.
 2.Install some plugins like terraform,git,and github integration with jenkins.
 3.Create access key and secret key.
